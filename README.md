@@ -4,7 +4,7 @@
 
 Tushar Pal · Advanced Diploma, Computer Security & Investigation — Fleming College (2023) · November 18, 2026
 
-Portfolio: https://coolpal99.github.io/ · LinkedIn: https://www.linkedin.com/in/tushar-pal-34a0b91a2/
+Portfolio: https://tusharpalcyber.github.io/ · LinkedIn: https://www.linkedin.com/in/tushar-pal-34a0b91a2/
 
 This repository documents the first five labs of a twelve-lab home cybersecurity programme, completed November 14–18, 2026. Each lab ran on two virtual machines I own, on an isolated virtual network, and each result is backed by terminal output or packet captures reproduced as evidence. Where something went wrong, the failure and the fix are recorded alongside the result — troubleshooting is part of the work.
 
